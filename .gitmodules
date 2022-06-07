@@ -1,3 +1,3 @@
 [submodule "ModbusTCP2MQTT"]
 	path = ModbusTCP2MQTT
-	url = https://github.com/TenySmart/ModbusTCP2MQTT.git
+	url = git@github.com:amykapernick/ModbusTCP2MQTT.git
